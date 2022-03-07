@@ -1,1 +1,3 @@
-examble
+
+example
+//Welcome to javascria
